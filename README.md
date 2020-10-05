@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Halo 👋 I'm Alhus
+Right now I'm enjoying life, learning what I want to know like how to understand women
 <!--
 **nurrifqialhusaini/nurrifqialhusaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
