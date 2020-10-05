@@ -29,7 +29,7 @@ const Alhus = {
     },
     Social:{
         Facebook : "facebook.com/nurrifqialhusaini.id",
-        Instagram : "https://instagram.com/nurrifqialhusaini"
+        Instagram : "instagram.com/nurrifqialhusaini"
     }
 }
 ```
