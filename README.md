@@ -19,7 +19,7 @@ Right now I'm enjoying life, learning what I want to know like how to understand
 ```javascript
 const Alhus = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "photography", "movie"],
+    askMeAbout: ["web dev", "tech", "photography", "movie", "game"],
     technologies: {
         mobileApp: ["Android App"],
         fronEnd: ["Materialize", "Bootstrap"],
