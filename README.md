@@ -25,7 +25,7 @@ const Alhus = {
         fronEnd: ["Materialize", "Bootstrap"],
         backEnd: ["Laravel", "PHP"],
         databases: ["MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "php", "SuiteApp", "Pusher"]
+        misc: ["Firebase", "Socket.IO", "php", "Pusher"]
     },
     Social:{
         Facebook : "facebook.com/nurrifqialhusaini.id",
