@@ -21,11 +21,11 @@ const Alhus = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "photography", "movie", "game"],
     technologies: {
-        mobileApp: ["Android App"],
-        fronEnd: ["Materialize", "Bootstrap"],
-        backEnd: ["Laravel", "PHP"],
+        mobileApp: ["Java"],
+        fronEnd: ["Materialize", "Bootstrap", "HTML", "JS", "TS"],
+        backEnd: ["Laravel", "Codeigniter", "PHP"],
         databases: ["MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "php", "Pusher"]
+        misc: ["Firebase", "Socket.IO", "Pusher", "Lua"]
     },
     Social:{
         Facebook : "facebook.com/nurrifqialhusaini.id",
