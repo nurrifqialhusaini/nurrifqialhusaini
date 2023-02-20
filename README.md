@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-## Halo 👋 I'm Alhus <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# :raised_hand: Halo, I'm Alhus <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 Right now I'm enjoying life, learning what I want to know like how to understand women
 ## ⚡ Technologies
 
