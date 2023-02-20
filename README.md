@@ -51,6 +51,6 @@ Right now im enjoying life, learning what i want to know, like how to understand
 ![](https://visitor-badge.laobi.icu/badge?page_id=nurrifqialhusaini.nurrifqialhusaini)
 # Github Stats
 <p float="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=nurrifqialhusaini&row=2&column=4&theme=onedark#1?" width="50%">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=nurrifqialhusaini&theme=onedark#1?" width="26%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nurrifqialhusaini&row=2&column=4&theme=onedark#1&margin-w=15&margin-h=15" width="50%">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=nurrifqialhusaini&theme=onedark" width="26%" />
 </p>
