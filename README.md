@@ -54,3 +54,11 @@ Right now im enjoying life, learning what i want to know, like how to understand
   <img src="https://github-profile-trophy.vercel.app/?username=nurrifqialhusaini&row=2&column=3&theme=onedark#1&margin-w=15&margin-h=15" width="50%">
   <img src="https://github-contribution-stats.vercel.app/api/?username=nurrifqialhusaini&theme=onedark" width="34%" />
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/nurrifqialhusaini/nurrifqialhusaini/output/snake.svg" alt="Snake animation" />
+
+###
